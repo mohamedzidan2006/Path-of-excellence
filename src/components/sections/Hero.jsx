@@ -24,7 +24,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-blue-100/80 text-xl max-w-2xl mb-12">
-          أكاديمية تعليمية رائدة تمزج بين الابتكار والقيم الأصيلة.
+          أكاديمية تعليمية رائدة تمزج بين الابتكار والقيم الأصيلة. في الوطن العربي
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 mb-16">
